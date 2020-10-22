@@ -1,0 +1,19 @@
+.Headshot {
+	width: 500px !important;
+	height: 600px;
+}
+
+#Header {
+    height: 100%;
+    background-image: url(../assets/images/Headshot.jpg) !important;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    padding-left: 100px;
+}
+
+#Header-Text {
+    display: block;
+}
