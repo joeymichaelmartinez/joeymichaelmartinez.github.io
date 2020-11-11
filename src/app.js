@@ -51,7 +51,6 @@ class AppRouter extends React.Component {
               </section>
               <section name="section-3" id="section-3" className="section-3 page">
                 <OtherProjects />
-                <OtherProjects />
               </section>
               <section name="section-4" id="section-4" className="section-4 page">
                 <GameDesign />  
